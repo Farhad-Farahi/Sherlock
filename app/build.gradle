@@ -64,6 +64,7 @@ dependencies {
     debugImplementation 'androidx.compose.ui:ui-tooling'
     debugImplementation 'androidx.compose.ui:ui-test-manifest'
 
-    implementation project(':Sherlock')
+//    implementation project(':Sherlock')
+    implementation 'io.github.farhad9577:sherlock:1.0.0'
 
 }

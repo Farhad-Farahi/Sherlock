@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "LibraryPublishTest"
 include ':app'
 include ':Sherlock'
+include ':SpecialLogger'
+include ':ExactLogger'
